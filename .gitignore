@@ -1,0 +1,5 @@
+# Build results
+x64/
+
+# Visual Studio
+.vs/
